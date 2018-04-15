@@ -32,21 +32,3 @@ describe("Home - test suite", () => {
         
     });
 });
-
-
-/* 
-test('Home renders the text inside it', () => {
-    const wrapper = mount(
-        <MemoryRouter><Home/></MemoryRouter>
-    );
-    const h1 = wrapper.find('h1');
-    expect(h1.text()).toBe('Hello. This is example app created with ReactJS');
-});
-
-test('Home renders Link', () => {
-    const wrapper = mount(
-        <MemoryRouter><Home/></MemoryRouter>
-    );
-    const button = wrapper.find('.btn-primary');
-    expect(button.text()).toBe('See Posts');
-}); */
