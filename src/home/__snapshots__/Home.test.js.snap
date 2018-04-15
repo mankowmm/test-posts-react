@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="Home"
+>
+  <div
+    className="jumbotron"
+  >
+    <h1>
+      Hello. This is example app created with ReactJS
+    </h1>
+    <p
+      className="lead"
+    >
+      <a
+        className="btn btn-primary"
+        href="/posts"
+        onClick={[Function]}
+      >
+        See Posts
+      </a>
+    </p>
+  </div>
+</div>
+`;
