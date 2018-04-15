@@ -24,7 +24,7 @@ class AppNavbar extends React.Component {
     return (
       <div>
         <Navbar color="light" light expand="md">
-          <NavbarBrand href="/">Test MM App</NavbarBrand>
+          <NavbarBrand >Test React Application</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <NavApp/>

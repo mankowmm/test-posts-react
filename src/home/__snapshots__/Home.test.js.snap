@@ -10,6 +10,9 @@ exports[`renders correctly 1`] = `
     <h1>
       Hello. This is example app created with ReactJS
     </h1>
+    <p>
+      This is simple application created with ReactJS and Bootstrap 4
+    </p>
     <p
       className="lead"
     >
